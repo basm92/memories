@@ -1,0 +1,59 @@
+```json
+{
+  "Name": "Eduard Gustaaf Weijland",
+  "Date of Death": "23 Augustus 1903",
+  "Baten (Net Assets)": 2350.00,
+  "Schulden en Lasten (Net Liabilities)": 300.00,
+  "Saldo (Net Wealth)": 2050.00,
+  "Overview": {
+    "Assets": [
+      {
+        "variable name": "Contanten",
+        "value": 400.00
+      },
+      {
+        "variable name": "Meubilaire goederen",
+        "value": 350.00
+      },
+      {
+        "variable name": "Effecten portfioen (3 maanden)",
+        "value": 250.00
+      },
+      {
+        "variable name": "Cert: Obligat: v/d Stad Rotterdam 4%",
+        "value": 1000.00
+      },
+      {
+        "variable name": "Actie Maatschappij tot Exploitatie van StaatsSpoorwegen",
+        "value": 1000.00
+      },
+      {
+        "variable name": "Actie Nederlandsch Indische Hypotheek Maatschappij",
+        "value": 1000.00
+      },
+      {
+        "variable name": "Cert: dito ... als bovengenoemd",
+        "value": 1000.00
+      }
+    ],
+    "Liabilities": [
+      {
+        "variable name": "Begrafeniskosten",
+        "value": 300.00
+      },
+      {
+        "variable name": "Dokter en geneesmiddelen",
+        "value": 40.00
+      },
+      {
+        "variable name": "Loopende schulden en huishuur",
+        "value": 150.00
+      },
+      {
+        "variable name": "Salaris enz.",
+        "value": 50.00
+      }
+    ]
+  }
+}
+```
