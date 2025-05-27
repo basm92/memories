@@ -1,0 +1,73 @@
+{
+  "Name": "Carolina Anthonetta Broekhuijse",
+  "Date of Death": "1604-10-20T00:00:00Z",
+  "Baten (Net Assets)": 13312.99,
+  "Schulden en Lasten (Net Liabilities)": 803.05,
+  "Saldo (Net Wealth)": 12509.94,
+  "Overview": {
+    "Assets": [
+      {
+        "name": "Aandeel in roerende zaken gemeenschappelijk bezeten de nalatenschap van wijlen den Heer Hendrik Jan Broekhuijsen en de comparante",
+        "value": 3257.035
+      },
+      {
+        "name": "Effecten en vorderingen ten kantore van dezer Notaris in depot alsmede in de courant",
+        "value": 9596.90
+      },
+      {
+        "name": "Contanten ten sterfhuijze aangetroffen kas",
+        "value": 460.00
+      }
+    ],
+    "Liabilities": [
+      {
+        "name": "Aan Mr. W. van der Vlugt, Notaris te Utrecht",
+        "value": 190.17
+      },
+      {
+        "name": "Aan den Ontvanger der Registratie",
+        "value": 40.71
+      },
+      {
+        "name": "Aan Dr. J. Hofman voor medicijnen",
+        "value": 70.02
+      },
+      {
+        "name": "Aan P. Jochems voor allerhande",
+        "value": 16.00
+      },
+      {
+        "name": "Aan Hendrik v.d. Riet voor allerhande",
+        "value": 70.41
+      },
+      {
+        "name": "Aan Th. v.d. Ven voor doodkist enz.",
+        "value": 18.00
+      },
+      {
+        "name": "Aan C. Teirl voor allerhande",
+        "value": 31.25
+      },
+      {
+        "name": "Aan Dr. Coster te Laren voor consultaties te Baarn",
+        "value": 20.00
+      },
+      {
+        "name": "Aan den geneesheer Starmans, assisterend bij de sectie",
+        "value": 40.42
+      },
+      {
+        "name": "Aan idem voor medicijnen enz.",
+        "value": 58.61
+      },
+      {
+        "name": "Aan Mr. J.W. Croockewit, opsteller dezer",
+        "value": 142.90
+      },
+      {
+        "name": "Aan F.W. Oort voor allerhande",
+        "value": 249.20
+      }
+    ]
+  }
+}

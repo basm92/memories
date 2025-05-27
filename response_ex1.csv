@@ -1,0 +1,8 @@
+description,value,Type,Name,Date of Death,Baten (Net Assets),Schulden en Lasten (Net Liabilities),Saldo (Net Wealth)
+Contanten (aandeel),200.0,Asset,Eduard Gustaaf Weijland,2308-12-08T00:00:00.000Z,2350.0,300.0,2050.0
+Roerende zaken (Meubilaire goederen & Inboedel polissen) (aandeel),1200.0,Asset,Eduard Gustaaf Weijland,2308-12-08T00:00:00.000Z,2350.0,300.0,2050.0
+Effecten: Ten laste Boedels Betreffende Hypotheek op Onroerend Goed (aandeel),237.5,Asset,Eduard Gustaaf Weijland,2308-12-08T00:00:00.000Z,2350.0,300.0,2050.0
+Effecten: Ten laste Weijland op Onroerend Goed (aandeel),237.5,Asset,Eduard Gustaaf Weijland,2308-12-08T00:00:00.000Z,2350.0,300.0,2050.0
+Effecten: Ten laste Weduwe Hollandsch Hypotheek Kapitaal (aandeel),237.5,Asset,Eduard Gustaaf Weijland,2308-12-08T00:00:00.000Z,2350.0,300.0,2050.0
+Effecten: Ten laste dito als bovengenoemd (Weduwe Hollandsch Hypotheek Kapitaal) (aandeel),237.5,Asset,Eduard Gustaaf Weijland,2308-12-08T00:00:00.000Z,2350.0,300.0,2050.0
+Begrafeniskosten,300.0,Liability,Eduard Gustaaf Weijland,2308-12-08T00:00:00.000Z,2350.0,300.0,2050.0

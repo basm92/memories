@@ -1,0 +1,41 @@
+{
+  "Name": "Eduard Gustaaf Weijland",
+  "Date of Death": "2308-12-08T00:00:00.000Z",
+  "Baten (Net Assets)": 2350.00,
+  "Schulden en Lasten (Net Liabilities)": 300.00,
+  "Saldo (Net Wealth)": 2050.00,
+  "Overview": {
+    "Assets": [
+      {
+        "name": "Contanten (aandeel)",
+        "value": 200.00
+      },
+      {
+        "name": "Roerende zaken (Meubilaire goederen & Inboedel polissen) (aandeel)",
+        "value": 1200.00
+      },
+      {
+        "name": "Effecten: Ten laste Boedels Betreffende Hypotheek op Onroerend Goed (aandeel)",
+        "value": 237.50
+      },
+      {
+        "name": "Effecten: Ten laste Weijland op Onroerend Goed (aandeel)",
+        "value": 237.50
+      },
+      {
+        "name": "Effecten: Ten laste Weduwe Hollandsch Hypotheek Kapitaal (aandeel)",
+        "value": 237.50
+      },
+      {
+        "name": "Effecten: Ten laste dito als bovengenoemd (Weduwe Hollandsch Hypotheek Kapitaal) (aandeel)",
+        "value": 237.50
+      }
+    ],
+    "Liabilities": [
+      {
+        "name": "Begrafeniskosten",
+        "value": 300.00
+      }
+    ]
+  }
+}
