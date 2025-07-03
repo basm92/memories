@@ -15,3 +15,5 @@ python parse-response_to_csv.py response_ex1.txt
     - Upload them somewhere and link to them in this readme.md
     - Let student assistants upload the annotations to these batches here
     
+- Model: Gemma 3N 4b Multimodal fintuning + inference
+    - Google Colab Notebook
