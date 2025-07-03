@@ -58,7 +58,7 @@ prompt_text = """Transcribe the information present in the images to json."""
 # Create the prompt with text and multiple images
 # You have to allow billing using the Google Cloud Console or the Google Cloud SDK Online
 response = client.models.generate_content(
-    model="gemini-2.5-pro-preview-05-06",
+    model="gemini-2.5-pro",
     contents=[
         types.Content(
             role="user",
